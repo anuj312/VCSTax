@@ -14,7 +14,17 @@ public class demo {
 		//*[@id="logo"]/img
 		
 		//*[@id="O365_MainLink_NavMenu"]/span
+		
+		
+		
+		
+		//*[@id="O365_MainLink_NavMenu"]/span
+		
+		
+		//*[@id="O365_MainLink_NavMenu"]/span
+		//*[@id="O365_MainLink_NavMenu"]/span
 	}
+	
 		
 		
 		
